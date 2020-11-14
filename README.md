@@ -11,7 +11,6 @@
 # emily-becker
 <html>
 	<head>
-		<title>Editorial by HTML5 UP</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="main.css" />
@@ -42,7 +41,7 @@
 										<header>
 											<h1>Hello, World!<br />
 											I'm Emily Becker</h1>
-											<p>A free and fully responsive site template</p>
+											
 										</header>
 										<p>Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. Pellentesque sapien ac quam. Lorem ipsum dolor sit nullam.</p>
 										<ul class="actions">
@@ -150,8 +149,7 @@
 
 						</div>
 					</div>
-
-				<!-- Sidebar -->
+<!-- Sidebar -->
 					<div id="sidebar">
 						<div class="inner">
 
@@ -169,31 +167,17 @@
 									</header>
 									<ul>
 										<li><a href="index.html">Homepage</a></li>
-										<li><a href="generic.html">Generic</a></li>
-										<li><a href="elements.html">Elements</a></li>
+										<li><a href="about.html">About Me</a></li>
+										<li><a href="contact.html">Contact</a></li>
 										<li>
-											<span class="opener">Submenu</span>
+											<span class="opener">My stuff</span>
 											<ul>
-												<li><a href="#">Lorem Dolor</a></li>
-												<li><a href="#">Ipsum Adipiscing</a></li>
-												<li><a href="#">Tempus Magna</a></li>
-												<li><a href="#">Feugiat Veroeros</a></li>
+												<li><a href="hurricane.html">Hurricane Relief</a></li>
+												<li><a href="instructions.html">Instructional Content</a></li>
+												<li><a href="audit.html">Website Audits</a></li>
+												
 											</ul>
 										</li>
-										<li><a href="#">Etiam Dolore</a></li>
-										<li><a href="#">Adipiscing</a></li>
-										<li>
-											<span class="opener">Another Submenu</span>
-											<ul>
-												<li><a href="#">Lorem Dolor</a></li>
-												<li><a href="#">Ipsum Adipiscing</a></li>
-												<li><a href="#">Tempus Magna</a></li>
-												<li><a href="#">Feugiat Veroeros</a></li>
-											</ul>
-										</li>
-										<li><a href="#">Maximus Erat</a></li>
-										<li><a href="#">Sapien Mauris</a></li>
-										<li><a href="#">Amet Lacinia</a></li>
 									</ul>
 								</nav>
 
