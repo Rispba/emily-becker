@@ -1,0 +1,106 @@
+<head> <title>Hurricane Funds</title>
+<meta name="description" content="For my Front-End Development class, I made a high-fidelity prototype of a website for hurricane relief.">
+<meta name="keywords" content="search engine optimization, information architecture">
+<meta name="robots" content="index, follow">
+<meta name="language" content="EN">
+<meta name="author" content="Emily Becker">
+<meta name="distribution" content="global">
+<meta name="rating" content="general">
+  <meta name="generator" content="FreeMetaTagGenerator.com">
+  <link rel="stylesheet" href="main.css">
+</head>
+
+<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main -->
+					<div id="main">
+						<div class="inner">
+
+							<!-- Header -->
+								<header id="header">
+									<ul class="icons">
+										<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+										<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+										<li><a href="#" class="icon brands fa-snapchat-ghost"><span class="label">Snapchat</span></a></li>
+										<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+										<li><a href="#" class="icon brands fa-medium-m"><span class="label">Medium</span></a></li>
+									</ul>
+								</header>
+
+							<!-- Content -->
+								<section>
+									<header class="main">
+										<h1>Project 4: Theme Park Factbook</h1>
+									</header>
+
+									<span class="image main"><img src="https://files.globalgiving.org/pfil/29357/pict_original.jpg?m=1503675569000" alt="Hurricane Harvey Relief Fund - GlobalGiving"/></span>
+
+									For my Front-End Development class, I made a high-fidelity prototype of a website for hurricane relief. I used Adobe Dreamweaver, CSS, and Javascript to make this mockup. Research on already-existing hurricane relief sites was done, and iterated the prototypes based on the observations made. Pages included a donation page, a news page where future hurricane news reports could be added, and an about us page. Coding included making a scrolling image on the front page and using a knowledge of information architecture to successfully organize the website and make it easily accessible.</p>
+
+									<hr class="major" />
+
+									<h2>The Context</h2>
+							<p>Unfortunately, this was not a project I <i>chose</i>, rather, it was chosen for me. However, I consider myself to be a very empathetic person, so I took this in stride. </p>
+									<p>My first step was to design the website itself. As I am not normally a written-out planner (I see something in my head and charge straight ahead), I wasn't a big fan of this part of the project. Despite that, I did make an honest attempt at mapping out a website. To help me with this, I looked at many different websites and tried to simulate them as best as possible. That included a news page, a video page, and a place where you could make donations.</p>
+
+								</section>
+
+						</div>
+					</div>
+
+				<!-- Sidebar -->
+					<div id="sidebar">
+						<div class="inner">
+
+							<!-- Search -->
+								<section id="search" class="alt">
+									<form method="post" action="#">
+										<input type="text" name="query" id="query" placeholder="Search" />
+									</form>
+								</section>
+
+							<!-- Menu -->
+								<nav id="menu">
+									<header class="major">
+										<h2>Menu</h2>
+									</header>
+									<ul>
+										<li><a href="index.html">Homepage</a></li>
+										<li><a href="about.html">About Me</a></li>
+										<li><a href="contact.html">Contact</a></li>
+										<li>
+											<span class="opener">My stuff</span>
+											<ul>
+												<li><a href="hurricane.html">Hurricane Relief</a></li>
+												<li><a href="instructions.html">Instructional Content</a></li>
+												<li><a href="audit.html">Website Audits</a></li>
+												<li><a href="factbook.html">Theme Park Factbook</a></li>
+											</ul>
+										</li>
+									</ul>
+								</nav>
+
+
+
+							<!-- Footer -->
+								<footer id="footer">
+									<p class="copyright">&copy; Untitled. All rights reserved. Demo Images: <a href="https://unsplash.com">Unsplash</a>. Design: <a href="https://html5up.net">HTML5 UP</a>.</p>
+								</footer>
+
+						</div>
+					</div>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="jquery.min.js"></script>
+			<script src="browser.min.js"></script>
+			<script src="breakpoints.min.js"></script>
+			<script src="util.js"></script>
+			<script src="main.js"></script>
+
+	</body>
+</html>
