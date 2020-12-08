@@ -48,9 +48,10 @@
 											I'm Emily Becker</h1>
 											<p>Freelance Technical Communicator</p>
 										</header>
-										<p>Welcome to my official website!</p>
+										<p>Welcome to my official website! I am a senior at Kennesaw State University, who is excited to get out into the world and take on any job.</p>
 										<ul class="actions">
 											<li><a href="about.html" class="button big">Learn More</a></li>
+											<li><a href="Resume (1).docx" download class="button big">Download Resume</a></li>
 										</ul>
 									</div>
 									<span class="image object">
@@ -70,15 +71,15 @@
 											<h3>Make the Busses Better</h3>
 											<p>Passion project regarding campus transportation may, after graduation, help improve the bus schedule</p>
 											<ul class="actions">
-												<li><a href="#" class="button">More</a></li>
+												<li><a href="website_audit.html" class="button">More</a></li>
 											</ul>
 										</article>
 										<article>
-											<a href="#" class="image"><img src="images/pic02.jpg" alt="" /></a>
-											<h3>Nulla amet dolore</h3>
-											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+											<a href="#" class="image"><img src="https://i0.wp.com/chrisoatley.wpengine.com/wp-content/uploads/2018/09/ArtCast112-ChrisBradley-PostArt-1280w.jpg?resize=1280%2C720" alt="Image of a theme park" /></a>
+											<h3>Where Dreams Come True</h3>
+											<p>How to make your dreams come true (with enough money)</p>
 											<ul class="actions">
-												<li><a href="#" class="button">More</a></li>
+												<li><a href="factbook.html" class="button">More</a></li>
 											</ul>
 										</article>
 										
@@ -99,7 +100,7 @@
 									</form>
 								</section>
 <!-- Menu -->
-								<nav id="menu">
+							<nav id="menu">
 									<header class="major">
 										<h2>Menu</h2>
 									</header>
@@ -113,14 +114,13 @@
 												<li><a href="hurricane.html">Hurricane Relief</a></li>
 												<li><a href="instructions.html">Instructional Content</a></li>
 												<li><a href="website_audit.html">For Improvement of KSU</a></li>
-												<li><a href="factbook.html">Theme Park Factbook</a></li>
+												<li><a href="factbook">Theme Park Factbook</a></li>
 												
 											</ul>
 										</li>
 									</ul>
 								</nav>
 
-							
 
 							<!-- Footer -->
 								<footer id="footer">
